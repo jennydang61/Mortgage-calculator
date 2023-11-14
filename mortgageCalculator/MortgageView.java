@@ -1,4 +1,4 @@
-package lab4;
+package mortgageCalculator;
 
 import javax.swing.*;
 import java.awt.*;
