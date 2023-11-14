@@ -1,4 +1,6 @@
 # Mortgage calculator
+Using an MVC design, I've created a mortgage calculator that calculates and displays monthly payments, interest and amortization based on user inputs.
+
 How to use the mortgage calculator
 1. Open the terminal or command prompt and go to the directory where the source code files (the source code should be in a folder called mortgageCalculator) are located (example: cd Desktop)
 2. Compile the source code MortgageController by entering javac mortgageCalculator/MortgageController.java
