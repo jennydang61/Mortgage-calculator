@@ -1,4 +1,4 @@
-package lab4;
+package mortgageCalculator;
 
 public class MortgageController {
     // instance variables
@@ -11,7 +11,7 @@ public class MortgageController {
     }
     // constructor to create default values for the parameters
     public MortgageController() {
-        this(new MortgageModel(0, 0, 0,0,0), new MortgageView());
+        this(new MortgageModel(0, 0, 0, 0, 0), new MortgageView());
     }
     // sets the visibility of MortgageView to true
     public void run() {
