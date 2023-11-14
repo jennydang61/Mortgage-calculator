@@ -1,4 +1,4 @@
-package lab4;
+package mortgageCalculator;
 
 public class MortgageModel {
     /**
